@@ -1,7 +1,7 @@
 package tema4_ej1;
 
 import java.util.Scanner;
-
+//Cambios desde Github
 public class Tema4_ej1 {
 //Cambios para probar GitHub
 	static int suma(int a, int b) {
